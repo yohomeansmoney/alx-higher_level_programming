@@ -90,4 +90,4 @@ class Square:
         """
         Compares and returns if greater than or equal to
         """
-        return self.size >= other.
+        return self.size >= other.size
